@@ -10,7 +10,7 @@ for i = 1:length(fits)
     x = minX:0.1:maxX;
     y = fits{i}(x);
     y = real(y);
-    ploth(i) = plot(x,y, 'Color',lineColors(i,:),'linewidth',2);
+    ploth(i) = plot(x,y, 'Color',lineColors(i,:),'linewidth',2,'alpha',0.5);
 %     alpha(a, 1)
     epmax(i) = fits{i}(maxX);
 end

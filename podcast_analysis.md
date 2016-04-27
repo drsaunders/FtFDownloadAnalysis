@@ -97,6 +97,6 @@ For episode 10, Catching Fire, in the second week after release there was a spik
 
 * The vast majority of our downloads occurred in the first two weeks after release, although this wass not always predictive of the eventual popularity.
 * Our interventions, such as posting on fan forums or our [nomination for Hugo award for best fancast](http://www.geekingoutabout.com/2016/03/01/road-to-hugo-awards-fight-the-future-best-fancast/), did not have a dramatic, detectable effect on download rates.
-* We are not getting more popular. We're getting dramatically less popularity either, although the downloads seem to be coming slightly later after the release.
+* We are not getting more popular. We're not getting measurably less popularity either, although the downloads seem to be coming slightly later after the release.
 * There was a baseline number of downloads, about 2500 by day 90, but still a certain amount of variability between episodes.
-* The episodes that created passion in our listeners seem to be the most popular. 
+* The main factor predicting which episodes are popular seems to be the passion the source material inspires.
