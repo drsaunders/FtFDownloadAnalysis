@@ -1,4 +1,4 @@
-# Fight the Future Podcast Download Analysis
+# Fight the Future with Dan and Paul Podcast Download Analysis
 
 [Fight the Future on iTunes](https://itunes.apple.com/us/podcast/fight-future-loadingreadyrun/id981185349?mt=2)
 
@@ -29,7 +29,7 @@ It also seems to do pretty well with only a subset of the data points, e.g. the 
 
 ![Alt text](figures/figures003.png)
 
-Only about a 10% error. So fitting the function can be used both for interpolating to fill the gaps in my sampling, and for projecting popularity in the future.
+Only about a 10% error at 200 days out. So fitting the function can be used both for interpolating to fill the gaps in my sampling, and for projecting popularity in the future.
 
 Here are all the fitted curves together:
 
@@ -51,7 +51,7 @@ From the dotted lines we can see that Devil on my Back and Giver started out fas
 
 I speculate that The Giver and Devil on my Back were special cases - they might have benefitted from the posting of episodes on YouTube, starting around the time of The Giver, which raised awareness of the podcast, and encouraged people to subscribe and seek out earlier episodes.
 
-A Boy and His Dog is our only controversial episode - way more than the normal number of comments on both YouTube (29 - by comparison the episodes before and after had 7 comments and 3 comments respectively) and the Loading Ready Run forum. It's possible people shared it with each other partly in a spirit of dislike over our feminist themes! (there were 11 downvotes, when our median is probably 0) Similarly, Ender's Game inspired a lot of passion, with an above average number of comments
+A Boy and His Dog is our only controversial episode - way more than the normal number of comments on both YouTube (29 - by comparison the episodes before and after had 7 comments and 3 comments respectively) and the Loading Ready Run forum. It's possible people shared it with each other partly in a spirit of dislike over our feminist themes! (there were 11 downvotes, when our median is probably 0) Similarly, Ender's Game inspired a lot of passion, with an above average number of comments.
 
 Some of our least popular, particularly at the start, were books with no movie adaptation, e.g. Tripods, Mortal Engines, and Steelheart. However, Uglies and Little Brother were relatively popular. (these are highly successful books) The mean downloads for book-only episodes at day 2 was 1818.2 vs 1866.8 for movie episodes, but a Welch's t test, *p* = 0.71, showed that this difference wasn't statistically significant. A bit more evidence for the estimated day 90, where it was 3276.1 vs 3472.6, *p* = 0.08, but still not enough to conclude that our listeners cared if the book had a movie. 
 
@@ -95,8 +95,8 @@ For episode 10, Catching Fire, in the second week after release there was a spik
 
 ##Takeaways
 
-* The vast majority of our downloads occurred in the first two weeks after release, although this wass not always predictive of the eventual popularity.
-* Our interventions, such as posting on fan forums or our [nomination for Hugo award for best fancast](http://www.geekingoutabout.com/2016/03/01/road-to-hugo-awards-fight-the-future-best-fancast/), did not have a dramatic, detectable effect on download rates.
+* The vast majority of our downloads occurred in the first two weeks after release, although this was not always predictive of the eventual popularity.
+* Notable events and interventions, such as posting on fan forums or our [nomination for Hugo award for best fancast](http://www.geekingoutabout.com/2016/03/01/road-to-hugo-awards-fight-the-future-best-fancast/), did not have a dramatic, detectable effect on download rates.
 * We are not getting more popular. We're not getting measurably less popularity either, although the downloads seem to be coming slightly later after the release.
 * There was a baseline number of downloads, about 2500 by day 90, but still a certain amount of variability between episodes.
 * The main factor predicting which episodes are popular seems to be the passion the source material inspires.
